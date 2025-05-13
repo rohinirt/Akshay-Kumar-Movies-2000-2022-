@@ -1,5 +1,5 @@
 # Akshay-Kumar-Movies-2000-2022
-Tableau Public Link: 
+Tableau Public Link: https://public.tableau.com/app/profile/rohini.tembhurnikar/viz/AkshayKumarMovies/Dashboard1 
 
 ## Objective
 To create an interactive dashboard that allows users to explore Akshay Kumar's movies from 2000 to 2022, filtered by IMDb ratings, vote counts, genre, billing rank, and year of release. The goal is to visually analyze trends in the actor’s film performance and popularity.
